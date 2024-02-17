@@ -1,6 +1,8 @@
 # Leonardo Violim
 
 # Conecte-se comigo
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/leonardo-m-violim-45012b253)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-m-violim-45012b253)
 
 # Habilidades
