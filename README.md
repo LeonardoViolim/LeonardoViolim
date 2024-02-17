@@ -11,6 +11,3 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ##
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoViolim&show_icons=true&theme=tokyonight&hide_title=true&hide=stars"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoViolim&layout=compact&bg_color=1a1b27&text_color=38bdae&title_color=38bdae"/>
-
-## Repositorio
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoViolim?tab=repositories)
